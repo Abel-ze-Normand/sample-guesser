@@ -1,0 +1,4 @@
+%{"csv": {:hex, :csv, "1.2.4", "c327072cbeb99a085652cf110a7a3d5d7b99f94568d1497ca76971c88061555a", [:mix], []},
+  "eredis": {:hex, :eredis, "1.0.8", "ab4fda1c4ba7fbe6c19c26c249dc13da916d762502c4b4fa2df401a8d51c5364", [:rebar], []},
+  "exredis": {:hex, :exredis, "0.2.5", "34d02fa9ef32174cbd790b166746f91b3dbc131ce37a2d9a2451e8bba164b423", [:mix], [{:eredis, ">= 1.0.8", [hex: :eredis, optional: false]}]},
+  "fsm": {:hex, :fsm, "0.2.0", "53bcc0fd4a470c92cbbc3bae2d7f7dd8462898eedd62c37a6be556b94fba0e05", [:mix], []}}
